@@ -1,4 +1,4 @@
-name: Salaar
+name: Avica
 
 on:
   workflow_dispatch:
